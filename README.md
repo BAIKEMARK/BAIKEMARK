@@ -1,9 +1,3 @@
-
-<p align="center">
-  <i>Building tools that empower creators — 让工具赋能创造者。</i>
-</p>
-
-
 <div align="center">
   <h1 align="center">👋 Hi, I'm <strong>BAIKEMARK</strong></h1>
   <h3 align="center">Developer · AI Enthusiast</h3>
@@ -83,3 +77,4 @@
 <p align="center">
   <i>Building tools that empower creators — 让工具赋能创造者。</i>
 </p>
+
