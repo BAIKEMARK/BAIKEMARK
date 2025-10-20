@@ -5,14 +5,10 @@
   <p align="center">
     🌱 <strong>Currently exploring:</strong> AI, LLM, Knowledge Graphs, and Useful Tools.
   </p>
-
+  
   <p align="center">
-    <a href="https://blog.051088.xyz/">
-      <img src="https://img.shields.io/badge/Blog-051088.xyz-00bfa5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge" />
-    </a>
-    <a href="mailto:mark-bai@qq.com"> 
-      <img src="https://img.shields.io/badge/Email-Contact_Me-00bfa5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
-    </a>
+    <a href="https://blog.051088.xyz/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-051088.xyz-00bfa5?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge" style="vertical-align: middle;" /></a>
+    <a href="mailto:mark-bai@qq.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-Contact_Me-00bfa5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="vertical-align: middle;" /></a>
   </p>
 </div>
 
@@ -60,15 +56,11 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/BAIKEMARK">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BAIKEMARK&show_icons=true&hide=prs,contribs&rank_icon=github&title_color=00bfa5&text_color=888888&icon_color=00bfa5&border_color=e1e4e8&bg_color=00000000" alt="BAIKEMARK's GitHub stats" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKEMARK&layout=compact&title_color=00bfa5&text_color=888888&border_color=e1e4e8&bg_color=00000000" alt="Top languages" />
-  </a>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BAIKEMARK&show_icons=true&hide=prs,contribs&rank_icon=github&title_color=00bfa5&text_color=888888&icon_color=00bfa5&border_color=e1e4e8&bg_color=00000000" alt="BAIKEMARK's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKEMARK&layout=compact&title_color=00bfa5&text_color=888888&border_color=e1e4e8&bg_color=00000000" alt="Top languages" />
 </p>
 <p align="center">
-  <a href="https://github.com/BAIKEMARK">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKEMARK&theme=github-compact&color=00bfa5&line=00bfa5&point=00bfa5&area=true&area_color=00bfa5" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKEMARK&theme=github-compact&color=00bfa5&line=00bfa5&point=00bfa5&area=true&area_color=00bfa5" alt="Activity Graph" />
 </p>
 
 
@@ -77,4 +69,5 @@
 <p align="center">
   <i>Building tools that empower creators — 让工具赋能创造者。</i>
 </p>
+
 
