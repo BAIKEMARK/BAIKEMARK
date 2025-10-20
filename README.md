@@ -56,10 +56,10 @@
 ## GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/BAIKEMARK" style="text-decoration: none;"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=BAIKEMARK&show_icons=true&hide=prs,contribs&rank_icon=github&title_color=007ACC&text_color=888888&icon_color=007ACC&border_color=e1e4e8&bg_color=00000000" alt="BAIKEMARK's GitHub stats" style="vertical-align: middle;" /><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKEMARK&layout=compact&title_color=007ACC&text_color=888888&border_color=e1e4e8&bg_color=00000000" alt="Top languages" style="vertical-align: middle;" /></a>
+  <a href="https://github.com/BAIKEMARK" style="text-decoration: none;"><img height="150em" src="https://github-readme-stats.vercel.app/api?username=BAIKEMARK&show_icons=true&hide=prs,contribs&rank_icon=github&title_color=007ACC&text_color=888888&icon_color=888888&border_color=e1e4e8&bg_color=00000000" alt="BAIKEMARK's GitHub stats" style="vertical-align: middle;" /><img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BAIKEMARK&layout=compact&title_color=007ACC&text_color=888888&border_color=e1e4e8&bg_color=00000000" alt="Top languages" style="vertical-align: middle;" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/BAIKEMARK" style="text-decoration: none;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKEMARK&theme=github-compact&color=007ACC&line=007ACC&point=007ACC&area=true&area_color=007ACC" alt="Activity Graph" style="vertical-align: middle;" /></a>
+  <a href="https://github.com/BAIKEMARK" style="text-decoration: none;"><img src="https://github-readme-activity-graph.vercel.app/graph?username=BAIKEMARK&theme=github-compact&area=true&title_color=007ACC" alt="Activity Graph" style="vertical-align: middle;" /></a>
 </p>
 
 
@@ -68,3 +68,4 @@
 <p align="center">
   <i>Building tools that empower creators — 让工具赋能创造者。</i>
 </p>
+
