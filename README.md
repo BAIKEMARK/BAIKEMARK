@@ -7,7 +7,7 @@
   </p>
   
   <p align="center">
-    <a href="https://blog.051088.xyz/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-051088.xyz-007ACC?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge" style="vertical-align: middle;" /></a>
+    <a href="https://blog.markbai.com/" style="text-decoration: none;"><img src="https://img.shields.io/badge/Blog-051088.xyz-007ACC?style=for-the-badge&logo=wordpress&logoColor=white" alt="Blog Badge" style="vertical-align: middle;" /></a>
     <a href="mailto:mark-bai@qq.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/Email-Contact_Me-007ACC?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" style="vertical-align: middle;" /></a>
   </p>
 </div>
